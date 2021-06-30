@@ -1,9 +1,6 @@
-name: GitHub Script
+name: GitHub Script Fork
 author: GitHub
 description: Run simple scripts using the GitHub client
-branding:
-  color: blue
-  icon: code
 inputs:
   script:
     description: The script to run
